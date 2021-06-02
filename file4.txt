@@ -1,1 +1,2 @@
 This file has been changed by newFeature
+Content not to be updated in Main
